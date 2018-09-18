@@ -1,4 +1,5 @@
 /*
+	Solidity development
     Its part of ethereum public blockchain.
     Developed by AsaCoin Development Team 2018.
 */
